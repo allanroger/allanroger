@@ -3,3 +3,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/allanrogergs/)](https://www.instagram.com/allanrogergs/)
 
 Sou desenvolvedor e trabalho com desenvolvimento web desde 2006, tenho como rotina o aprendizado rápido e a solução de desafios sob pressão. Sempre utilizo meus recursos de maneira cautelosa, tendo como objetivo criar códigos pequenos, efetivos e uma melhor organização e reusabilidade.
+
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allanroger&layout=compact)](https://github.com/allanroger/github-readme-stats)
