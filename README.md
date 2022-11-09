@@ -1,18 +1,3 @@
-Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Allan Roger
-===================================================================================================================================
-
-
-Full Stack Developer
---------------------
-
-Sou desenvolvedor e trabalho com desenvolvimento web desde 2006, tenho como rotina o aprendizado rápido e a solução de desafios sob pressão. Sempre utilizo meus recursos de maneira cautelosa, tendo como objetivo criar códigos pequenos, efetivos e uma melhor organização e reusabilidade.
-
-* 🌍  Moro em São Paulo, Brasil
-* 🖥️  Veja meu portfolio em [http://allanroger.com/](http://allanroger.com/)
-* ✉️  Envie um e-mail para [allanroger@gmail.com](mailto:allanroger@gmail.com)
-* 🚀  Atualmente estou trabalhando na [Riachuelo](http://www.riachuelo.com.br)
-* 🧠  Atualmente estou aprendendo Flutter
-
 ### Habilidades
 
 <p align="left">
